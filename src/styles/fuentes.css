@@ -1,0 +1,5 @@
+/* Fuentes servidas desde el propio sitio (@fontsource). Cámbialas con scripts/fuentes.sh */
+@import '@fontsource-variable/inter-tight';
+@import '@fontsource-variable/fraunces';
+@import '@fontsource-variable/fraunces/wght-italic.css';
+@import '@fontsource-variable/jetbrains-mono';
