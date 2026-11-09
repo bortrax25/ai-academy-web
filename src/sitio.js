@@ -6,7 +6,7 @@ export const sitio = {
   base: '/ai-academy-web',          // '/' si es dominio propio; '/<repo>' en GitHub Pages de proyecto
   idiomas: ['es'],           // el primero es el principal (sin prefijo). Ej: ['es', 'en']
   empresa: 'AI Academy',    // nombre legal para el © y los textos legales
-  contacto: 'bortrax25@users.noreply.github.com',  // email de contacto
+  contacto: 'bortrax25@gmail.com',  // email de contacto
   github: '',
   whatsapp: '',              // número con código de país, solo dígitos (ej. 51999888777). Vacío = se usa el correo                // URL o vacío
   formulario: {
